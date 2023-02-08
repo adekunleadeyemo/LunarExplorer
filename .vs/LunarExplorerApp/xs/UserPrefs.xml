@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{E024AE0A-CC6A-4699-B9E4-ADB7263A3CF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.LunarExplorerApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LunarExplorerApp/ClientApp/src/components/FetchData.js">
+    <Files>
+      <File FileName="LunarExplorerApp/ClientApp/src/AppRoutes.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/Layout.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/Home.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/App.js" Line="1" Column="1" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/FetchData.js" Line="11" Column="26" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/NavMenu.css" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/NavMenu.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/Counter.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/MoonExplorer.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/Plateau.js" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/Rover.js" Line="3" Column="50" />
+      <File FileName="LunarExplorerApp/ClientApp/src/custom.css" />
+      <File FileName="LunarExplorerApp/ClientApp/package.json" />
+      <File FileName="LunarExplorerApp/appsettings.Development.json" />
+      <File FileName="LunarExplorerApp/Properties/launchSettings.json" Line="21" Column="35" />
+      <File FileName="LunarExplorerApp/ClientApp/src/components/LunarExplorer.js" />
+      <File FileName="LunarExplorerApp/Controllers/LunarRoverController.cs" Line="21" Column="52" />
+      <File FileName="LunarExplorerApp/Model/Rover.cs" />
+      <File FileName="LunarExplorerApp/Program.cs" Line="23" Column="1" />
+      <File FileName="LunarExplorerApp/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LunarExplorerApp" expanded="True">
+            <Node name="LunarExplorerApp" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True">
+                    <Node name="FetchData.js" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
